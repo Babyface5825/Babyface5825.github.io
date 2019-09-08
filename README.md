@@ -1,4 +1,4 @@
-# 徐兴鑫--个人简历|Personal Resume
+# 个人简历|Personal Resume
 ## 个人信息  
 - 电话：18712757615  
 - 邮箱：xingxinxu@qq.com  
